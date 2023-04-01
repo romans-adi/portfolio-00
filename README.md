@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo" target="_blank"></a>
 
-- [Live Demo Link](https://juniortestromansspilaks.000webhostapp.com/project-1/index.html)
+- [Live Demo Link](https://romans-adi.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,13 +89,27 @@ You can also create the new directory just adding the name of it in the end of c
 
 To run the project, execute the following command:
 
+Linux:
+
  > xdg-open index.html
+
+Windows:
+
+> start index.html
+
+MacOS:
+
+> open index.html
+
+Cygwin:
+
+> cygstart index.html
 
 ### Deployment
 
 You can deploy this project using:
 
-Any text editor of your choice.
+- [GitHub Pages](https://pages.github.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
